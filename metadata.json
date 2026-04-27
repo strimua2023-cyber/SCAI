@@ -1,0 +1,6 @@
+{
+  "name": "Face Scanner",
+  "description": "An advanced biometric face scanner powered by Gemini AI. Scan faces to identify people, retrieve detailed biographical information, and manage tactical intelligence notes.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
